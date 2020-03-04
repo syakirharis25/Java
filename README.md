@@ -19,6 +19,9 @@ The latest versions are Java 13, released in September 2019, and Java 11, a curr
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Java official website : https://www.oracle.com/java/ <br />
+Oracle official website : https://www.oracle.com <br />
+Eclipse Foundation official website : https://www.eclipse.org <br />
+Eclipse IDE for Java Developers : https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
