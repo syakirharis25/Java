@@ -45,7 +45,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 13. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
