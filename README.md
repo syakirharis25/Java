@@ -38,6 +38,9 @@ Primitive Data Types by oracle.com : https://docs.oracle.com/javase/tutorial/jav
 Java Packages by w3schools.com : https://www.w3schools.com/java/java_packages.asp <br />
 Java public Keyword by w3schools.com : https://www.w3schools.com/java/ref_keyword_public.asp <br />
 Java void Keyword : https://www.w3schools.com/java/ref_keyword_void.asp <br />
+Java If ... Else by w3schools.com : https://www.w3schools.com/java/java_conditions.asp <br />
+Java For Loop by w3schools.com : https://www.w3schools.com/java/java_for_loop.asp <br />
+Java While Loop by w3schools.com : https://www.w3schools.com/java/java_while_loop.asp <br />
 
 **_Java documentation by Javatpoint_**
 Java static keyword by Javatpoint : https://www.javatpoint.com/static-keyword-in-java <br />
