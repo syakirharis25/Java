@@ -55,6 +55,7 @@ public static void main(String[] args) – Java main method by JournalDev : http
 Classes and Objects in Java by GeeksforGeeks : https://www.geeksforgeeks.org/classes-objects-java <br />
 System.out.println by javapapers : https://javapapers.com/core-java/system-out-println/ <br />
 javac : command not found by Stack Overflow : https://stackoverflow.com/questions/5407703/javac-command-not-found <br />
+Java 8 – How to set JAVA_HOME on Windows10 by chandrashekhar : https://www.onlinetutorialspoint.com/java8/java-8-how-to-set-java_home-on-windows10.html <br />
 
 **_Java developers_** <br />
 Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
