@@ -28,6 +28,10 @@ Eclipse Foundation official website : https://www.eclipse.org <br />
 Eclipse IDE for Java Developers : https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers <br />
 IntelliJ IDEA : https://www.jetbrains.com/idea/ <br />
 
+**_Java documentation by oracle.com_** <br />
+Class System by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/System.html <br />
+Class String by .oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/String.html <br />
+
 **_Java documentation by w3schools.com_**
 Java Packages by w3schools.com : https://www.w3schools.com/java/java_packages.asp <br />
 Java public Keyword by w3schools.com : https://www.w3schools.com/java/ref_keyword_public.asp <br />
@@ -40,7 +44,6 @@ Java static keyword by Javatpoint : https://www.javatpoint.com/static-keyword-in
 public static void main(String[] args) – Java main method by JournalDev : https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method <br />
 Classes and Objects in Java by GeeksforGeeks : https://www.geeksforgeeks.org/classes-objects-java <br />
 Java void Keyword : https://www.w3schools.com/java/ref_keyword_void.asp <br />
-Class String by .oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/String.html <br />
 
 **_Java developers_** <br />
 Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
