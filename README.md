@@ -28,6 +28,20 @@ Eclipse Foundation official website : https://www.eclipse.org <br />
 Eclipse IDE for Java Developers : https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers <br />
 IntelliJ IDEA : https://www.jetbrains.com/idea/ <br />
 
+**_Java documentation by w3schools.com_**
+Java Packages by w3schools.com : https://www.w3schools.com/java/java_packages.asp <br />
+Java public Keyword by w3schools.com : https://www.w3schools.com/java/ref_keyword_public.asp <br />
+
+**_Java questions and answers by Stack Overflow_**
+What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
+
+**_Java related articles_** <br />
+Java static keyword by Javatpoint : https://www.javatpoint.com/static-keyword-in-java <br />
+public static void main(String[] args) – Java main method by JournalDev : https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method <br />
+Classes and Objects in Java by GeeksforGeeks : https://www.geeksforgeeks.org/classes-objects-java <br />
+Java void Keyword : https://www.w3schools.com/java/ref_keyword_void.asp <br />
+Class String by .oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/String.html <br />
+
 **_Java developers_** <br />
 Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
 
@@ -47,16 +61,6 @@ $ git status
 <a name="calculation"></a>
 ## 4. GitHub repository calculation.
 ```
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Java                            17             99             30            236
-Markdown                         1              5              0             33
-XML                              2              0              0             23
-INI                              1              0              0             11
-YAML                             1              0              0              1
--------------------------------------------------------------------------------
-SUM:                            22            104             30            304
--------------------------------------------------------------------------------
+draft
 ```
 Refer to : https://github.com/syakirharis25/cloc
