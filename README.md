@@ -30,7 +30,8 @@ IntelliJ IDEA : https://www.jetbrains.com/idea/ <br />
 
 **_Java documentation by oracle.com_** <br />
 Class System by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/System.html <br />
-Class String by .oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/String.html <br />
+Class String by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/String.html <br />
+Class PrintStream by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/io/PrintStream.html<br />
 
 **_Java documentation by w3schools.com_**
 Java Packages by w3schools.com : https://www.w3schools.com/java/java_packages.asp <br />
