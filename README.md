@@ -23,10 +23,13 @@ Java SE official download page : https://www.oracle.com/java/technologies/javase
 JDK 13 documentation : https://docs.oracle.com/en/java/javase/13/index.html <br />
 Oracle official website : https://www.oracle.com <br />
 
-**_Java text editor_**
+**_Java text editor_** <br />
 Eclipse Foundation official website : https://www.eclipse.org <br />
 Eclipse IDE for Java Developers : https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers <br />
 IntelliJ IDEA : https://www.jetbrains.com/idea/ <br />
+
+**_Java developers_** <br />
+Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
