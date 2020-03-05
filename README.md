@@ -61,11 +61,11 @@ javac : command not found by Stack Overflow : https://stackoverflow.com/question
 Java 8 – How to set JAVA_HOME on Windows10 by chandrashekhar : https://www.onlinetutorialspoint.com/java8/java-8-how-to-set-java_home-on-windows10.html <br />
 Setting the JAVA_HOME Variable in Windows by Confluence Support : https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html <br />
 
-**_Java developers_** <br />
-Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
-
 **_Java related articles_** <br />
 PascalCase by TechTerms : https://techterms.com/definition/pascalcase <br />
+
+**_Java developers_** <br />
+Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
 
 <a name="javac"></a>
 ## 3. Java compiler : javac
