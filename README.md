@@ -31,6 +31,9 @@ IntelliJ IDEA : https://www.jetbrains.com/idea/ <br />
 **_Java developers_** <br />
 Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
 
+**_Java related articles_** <br />
+PascalCase by TechTerms : https://techterms.com/definition/pascalcase <br />
+
 <a name="github"></a>
 ## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
