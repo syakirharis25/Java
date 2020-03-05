@@ -35,7 +35,7 @@ Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
 PascalCase by TechTerms : https://techterms.com/definition/pascalcase <br />
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Java.git
@@ -45,7 +45,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 4. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
