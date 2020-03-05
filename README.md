@@ -36,6 +36,7 @@ Class PrintStream by oracle.com : https://docs.oracle.com/javase/7/docs/api/java
 **_Java documentation by w3schools.com_**
 Java Packages by w3schools.com : https://www.w3schools.com/java/java_packages.asp <br />
 Java public Keyword by w3schools.com : https://www.w3schools.com/java/ref_keyword_public.asp <br />
+Java void Keyword : https://www.w3schools.com/java/ref_keyword_void.asp <br />
 
 **_Java questions and answers by Stack Overflow_**
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
@@ -44,7 +45,7 @@ What is “String args[]”? parameter in main method Java by Stack Overflow : h
 Java static keyword by Javatpoint : https://www.javatpoint.com/static-keyword-in-java <br />
 public static void main(String[] args) – Java main method by JournalDev : https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method <br />
 Classes and Objects in Java by GeeksforGeeks : https://www.geeksforgeeks.org/classes-objects-java <br />
-Java void Keyword : https://www.w3schools.com/java/ref_keyword_void.asp <br />
+System.out.println by javapapers : https://javapapers.com/core-java/system-out-println/ <br />
 
 **_Java developers_** <br />
 Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
