@@ -38,6 +38,7 @@ Primitive Data Types by oracle.com : https://docs.oracle.com/javase/tutorial/jav
 The while and do-while Statements by oracle.com : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html <br />
 javac - Java programming language compiler by oracle.com : https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javac.html <br />
 Java SE Security by oracle.com : https://www.oracle.com/technetwork/java/javase/jaas/index.html <br />
+Differences between Java EE and Java SE by oracle : https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html <br />
 
 **_Java documentation by w3schools.com_**
 Java Packages by w3schools.com : https://www.w3schools.com/java/java_packages.asp <br />
