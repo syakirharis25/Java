@@ -53,11 +53,11 @@ Java If ... Else by w3schools.com : https://www.w3schools.com/java/java_conditio
 Java For Loop by w3schools.com : https://www.w3schools.com/java/java_for_loop.asp <br />
 Java While Loop by w3schools.com : https://www.w3schools.com/java/java_while_loop.asp <br />
 
-**_Java documentation by Javatpoint_**
+**_Java documentation by Javatpoint_** <br />
 Java static keyword by Javatpoint : https://www.javatpoint.com/static-keyword-in-java <br />
 Java String equals() by Javatpoint : https://www.javatpoint.com/java-string-equals <br />
 
-**_Java questions and answers by Stack Overflow_**
+**_Java questions and answers by Stack Overflow_** <br />
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
 
 **_Java related articles_** <br />
