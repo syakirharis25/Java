@@ -4,9 +4,10 @@ My works related to Java programming language.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Java compiler : javac](#javac)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [Java developers.](#javadevelopers)
+4. [Java compiler : javac](#javac)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -67,8 +68,13 @@ PascalCase by TechTerms : https://techterms.com/definition/pascalcase <br />
 **_Java developers_** <br />
 Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
 
+<a name="javadevelopers"></a>
+## 3. Java developers.
+James Gosling : https://twitter.com/errcraft <br />
+Patrick Naughton : https://github.com/naughton <br />
+
 <a name="javac"></a>
-## 3. Java compiler : javac
+## 4. Java compiler : javac
 The javac command in Java compiles  a program from a command prompt. It reads a Java source program from a text file and creates a compiled Java class file. The javac tool reads class and interface definitions, written in the Java programming language, and compiles them into bytecode class files. It can also process annotations in Java source files and classes.
 
 To setup javac in windows environment, on the right hand side of **[ ⊞ ]**, type `edit environment` and then **[ Mouse Left Click ]** the shown text `edit environment variables for your account`, **Environment Variables** menu will appear, press **[ Tab ]**, **[ N ]**, type `Java_home`, then press **[ Tab ]**, type `C:\Program Files\Java\jdk-12.0.2`, then press **[ Enter ]**, then press **[ Tab ]** 10x, the press **[ P ]**, make sure the `Path` is highlighted on the screen and then press **[ Tab ]**, **[ E ]**, **[ Tab ]**, **[ N ]**, then type `C:\Program Files\Java\jdk-12.0.2\bin`, then press **[ Enter ]**, press **[ Tab ]** 6x, then press **[ Enter ]**, **[ Tab ]**, **[ Enter ]**.
@@ -76,7 +82,7 @@ To setup javac in windows environment, on the right hand side of **[ ⊞ ]**, ty
 Press **[ ⊞ ]** + **[ R ]**, then press **[ C ]**, **[ M ]**, **[ D ]**, **[ Enter ]**, when the `cmd.exe` program appears, type `javac` and press **[ Enter ]** to test whether the Java compiler is running or not, and the check the java version by typing `java -version` and press **[ Enter ]**.
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Java.git
@@ -86,7 +92,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 draft
 ```
