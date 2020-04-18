@@ -30,6 +30,9 @@ Eclipse Foundation official website : https://www.eclipse.org <br />
 Eclipse IDE for Java Developers : https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers <br />
 IntelliJ IDEA : https://www.jetbrains.com/idea/ <br />
 
+**_related Java projects_** <br />
+JAKARTA EE : https://jakarta.ee/ <br />
+
 **_Java documentation by oracle.com_** <br />
 Class System by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/System.html <br />
 Class String by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/String.html <br />
