@@ -68,12 +68,7 @@ System.out.println by javapapers : https://javapapers.com/core-java/system-out-p
 javac : command not found by Stack Overflow : https://stackoverflow.com/questions/5407703/javac-command-not-found <br />
 Java 8 – How to set JAVA_HOME on Windows10 by chandrashekhar : https://www.onlinetutorialspoint.com/java8/java-8-how-to-set-java_home-on-windows10.html <br />
 Setting the JAVA_HOME Variable in Windows by Confluence Support : https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html <br />
-
-**_Java related articles_** <br />
-PascalCase by TechTerms : https://techterms.com/definition/pascalcase <br />
-
-**_Java developers_** <br />
-Moshfegh Hamedani : https://twitter.com/moshhamedani <br />
+Differences between JDK, JRE and JVM by GeeksforGeeks : https://www.geeksforgeeks.org/differences-jdk-jre-jvm/ <br />
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
