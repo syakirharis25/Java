@@ -23,6 +23,7 @@ The latest versions are Java 13, released in September 2019, and Java 11, a curr
 Java official website : https://www.oracle.com/java/ <br />
 Java SE official download page : https://www.oracle.com/java/technologies/javase-downloads.html <br />
 JDK 13 documentation : https://docs.oracle.com/en/java/javase/13/index.html <br />
+Java Version 8 Update 251 download page : https://www.java.com/en/download/ <br />
 Oracle official website : https://www.oracle.com <br />
 
 **_Java text editor_** <br />
