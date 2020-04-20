@@ -71,6 +71,7 @@ Java String equals() by Javatpoint : https://www.javatpoint.com/java-string-equa
 Differences between JDK, JRE and JVM by GeeksforGeeks : https://www.geeksforgeeks.org/differences-jdk-jre-jvm/ <br />
 static keyword in java by GeeksforGeeks : https://www.geeksforgeeks.org/static-keyword-java/ <br />
 Difference between print() and println() in Java by GeeksforGeeks : https://www.geeksforgeeks.org/difference-between-print-and-println-in-java/ <br />
+Java Identifiers by GeeksforGeeks : https://www.geeksforgeeks.org/java-identifiers/ <br />
 
 **_Java questions and answers by Stack Overflow_** <br />
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
