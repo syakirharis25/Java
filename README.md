@@ -74,6 +74,7 @@ Difference between print() and println() in Java by GeeksforGeeks : https://www.
 Java Identifiers by GeeksforGeeks : https://www.geeksforgeeks.org/java-identifiers/ <br />
 Classes and Objects in Java by GeeksforGeeks : https://www.geeksforgeeks.org/classes-objects-java <br />
 Java | How to create your own Helper Class? by GeeksforGeeks : https://www.geeksforgeeks.org/java-helperclass/<br />
+Integer.MAX_VALUE and Integer.MIN_VALUE in Java with Examples by GeeksforGeeks : https://www.geeksforgeeks.org/integer-max_value-and-integer-min_value-in-java-with-examples/ <br />
 
 **_Java questions and answers by Stack Overflow_** <br />
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
