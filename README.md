@@ -65,6 +65,10 @@ Java While Loop by w3schools.com : https://www.w3schools.com/java/java_while_loo
 Java static keyword by Javatpoint : https://www.javatpoint.com/static-keyword-in-java <br />
 Java String equals() by Javatpoint : https://www.javatpoint.com/java-string-equals <br />
 
+**_Java documentation by GeeksforGeeks_** <br />
+Differences between JDK, JRE and JVM by GeeksforGeeks : https://www.geeksforgeeks.org/differences-jdk-jre-jvm/ <br />
+static keyword in java by GeeksforGeeks : https://www.geeksforgeeks.org/static-keyword-java/ <br />
+
 **_Java questions and answers by Stack Overflow_** <br />
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
 
@@ -78,7 +82,6 @@ System.out.println by javapapers : https://javapapers.com/core-java/system-out-p
 javac : command not found by Stack Overflow : https://stackoverflow.com/questions/5407703/javac-command-not-found <br />
 Java 8 – How to set JAVA_HOME on Windows10 by chandrashekhar : https://www.onlinetutorialspoint.com/java8/java-8-how-to-set-java_home-on-windows10.html <br />
 Setting the JAVA_HOME Variable in Windows by Confluence Support : https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html <br />
-Differences between JDK, JRE and JVM by GeeksforGeeks : https://www.geeksforgeeks.org/differences-jdk-jre-jvm/ <br />
 How to Install Java on Ubuntu by Thishosting.Rocks : https://thishosting.rocks/install-java-ubuntu/ <br />
 
 <a name="javadevelopers"></a>
