@@ -77,7 +77,8 @@ Java Identifiers by GeeksforGeeks : https://www.geeksforgeeks.org/java-identifie
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
 
 **_Java questions and answers by Quora_** <br />
-What does the "String[ ] args" in a Java main method actually mean? by Quora : https://www.quora.com/What-does-the-String-args-in-a-Java-main-method-actually-mean
+What does the "String[ ] args" in a Java main method actually mean? by Quora : https://www.quora.com/What-does-the-String-args-in-a-Java-main-method-actually-mean <br />
+What is the meaning of void in java? by Quora : https://www.quora.com/What-is-the-meaning-of-void-in-java <br />
 
 **_Java related articles_** <br />
 public static void main(String[] args) – Java main method by JournalDev : https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method <br />
