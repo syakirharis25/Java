@@ -91,6 +91,7 @@ Java 8 – How to set JAVA_HOME on Windows10 by chandrashekhar : https://www.onl
 Setting the JAVA_HOME Variable in Windows by Confluence Support : https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html <br />
 How to Install Java on Ubuntu by Thishosting.Rocks : https://thishosting.rocks/install-java-ubuntu/ <br />
 Difference between Definition and Declaration in Java by tutorialspoint : https://www.tutorialspoint.com/difference-between-definition-and-declaration-in-java <br />
+Java Program to find ASCII value of a Character by BeginnersBook : https://beginnersbook.com/2017/09/java-program-to-find-ascii-value-of-a-character/ <br />
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
