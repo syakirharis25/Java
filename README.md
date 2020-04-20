@@ -61,6 +61,7 @@ Java void Keyword : https://www.w3schools.com/java/ref_keyword_void.asp <br />
 Java If ... Else by w3schools.com : https://www.w3schools.com/java/java_conditions.asp <br />
 Java For Loop by w3schools.com : https://www.w3schools.com/java/java_for_loop.asp <br />
 Java While Loop by w3schools.com : https://www.w3schools.com/java/java_while_loop.asp <br />
+Java Data Types by w3schools.com : https://www.w3schools.com/java/java_data_types.asp <br />
 
 **_Java documentation by Javatpoint_** <br />
 Java static keyword by Javatpoint : https://www.javatpoint.com/static-keyword-in-java <br />
