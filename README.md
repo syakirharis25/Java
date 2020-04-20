@@ -31,6 +31,10 @@ Eclipse Foundation official website : https://www.eclipse.org <br />
 Eclipse IDE for Java Developers : https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers <br />
 IntelliJ IDEA : https://www.jetbrains.com/idea/ <br />
 
+**_Java questions and answers_** <br />
+Quora questions and answers website : https://www.quora.com <br />
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
 **_Java related projects_** <br />
 JAKARTA EE : https://jakarta.ee/ <br />
 Spring : https://spring.io/ <br />
@@ -63,6 +67,9 @@ Java String equals() by Javatpoint : https://www.javatpoint.com/java-string-equa
 
 **_Java questions and answers by Stack Overflow_** <br />
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
+
+**_Java questions and answers by Quora_** <br />
+What does the "String[ ] args" in a Java main method actually mean? by Quora : https://www.quora.com/What-does-the-String-args-in-a-Java-main-method-actually-mean
 
 **_Java related articles_** <br />
 public static void main(String[] args) – Java main method by JournalDev : https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method <br />
