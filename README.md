@@ -80,6 +80,7 @@ Integer.MAX_VALUE and Integer.MIN_VALUE in Java with Examples by GeeksforGeeks :
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
 javac : command not found by Stack Overflow : https://stackoverflow.com/questions/5407703/javac-command-not-found <br />
 Declaring an unsigned int in Java by Stack Overflow : https://stackoverflow.com/questions/9854166/declaring-an-unsigned-int-in-java <br />
+What is float in Java? by Stack Overflow : https://stackoverflow.com/questions/5076710/what-is-float-in-java <br />
 
 **_Java questions and answers by Quora_** <br />
 What does the "String[ ] args" in a Java main method actually mean? by Quora : https://www.quora.com/What-does-the-String-args-in-a-Java-main-method-actually-mean <br />
