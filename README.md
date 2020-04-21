@@ -73,10 +73,14 @@ static keyword in java by GeeksforGeeks : https://www.geeksforgeeks.org/static-k
 Difference between print() and println() in Java by GeeksforGeeks : https://www.geeksforgeeks.org/difference-between-print-and-println-in-java/ <br />
 Java Identifiers by GeeksforGeeks : https://www.geeksforgeeks.org/java-identifiers/ <br />
 Classes and Objects in Java by GeeksforGeeks : https://www.geeksforgeeks.org/classes-objects-java <br />
+Java | How to create your own Helper Class? by GeeksforGeeks : https://www.geeksforgeeks.org/java-helperclass/<br />
+Integer.MAX_VALUE and Integer.MIN_VALUE in Java with Examples by GeeksforGeeks : https://www.geeksforgeeks.org/integer-max_value-and-integer-min_value-in-java-with-examples/ <br />
 
 **_Java questions and answers by Stack Overflow_** <br />
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
 javac : command not found by Stack Overflow : https://stackoverflow.com/questions/5407703/javac-command-not-found <br />
+Declaring an unsigned int in Java by Stack Overflow : https://stackoverflow.com/questions/9854166/declaring-an-unsigned-int-in-java <br />
+What is float in Java? by Stack Overflow : https://stackoverflow.com/questions/5076710/what-is-float-in-java <br />
 
 **_Java questions and answers by Quora_** <br />
 What does the "String[ ] args" in a Java main method actually mean? by Quora : https://www.quora.com/What-does-the-String-args-in-a-Java-main-method-actually-mean <br />
@@ -89,6 +93,8 @@ Java 8 – How to set JAVA_HOME on Windows10 by chandrashekhar : https://www.onl
 Setting the JAVA_HOME Variable in Windows by Confluence Support : https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html <br />
 How to Install Java on Ubuntu by Thishosting.Rocks : https://thishosting.rocks/install-java-ubuntu/ <br />
 Difference between Definition and Declaration in Java by tutorialspoint : https://www.tutorialspoint.com/difference-between-definition-and-declaration-in-java <br />
+Java Program to find ASCII value of a Character by BeginnersBook : https://beginnersbook.com/2017/09/java-program-to-find-ascii-value-of-a-character/ <br />
+Formatting with printf() in Java by Baeldung : https://www.baeldung.com/java-printstream-printf <br />
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
