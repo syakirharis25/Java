@@ -93,6 +93,7 @@ Setting the JAVA_HOME Variable in Windows by Confluence Support : https://conflu
 How to Install Java on Ubuntu by Thishosting.Rocks : https://thishosting.rocks/install-java-ubuntu/ <br />
 Difference between Definition and Declaration in Java by tutorialspoint : https://www.tutorialspoint.com/difference-between-definition-and-declaration-in-java <br />
 Java Program to find ASCII value of a Character by BeginnersBook : https://beginnersbook.com/2017/09/java-program-to-find-ascii-value-of-a-character/ <br />
+Formatting with printf() in Java by Baeldung : https://www.baeldung.com/java-printstream-printf <br />
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
