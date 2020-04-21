@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fca059c9-2d4f-4a28-8f23-a36fe4a2b6aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08 - Variable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="fca059c9-2d4f-4a28-8f23-a36fe4a2b6aa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,5 +77,9 @@
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587391235627" />
+    <state x="1431" y="0" key="new project wizard" timestamp="1587419224374">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1431" y="0" key="new project wizard/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587419224374" />
   </component>
 </project>
