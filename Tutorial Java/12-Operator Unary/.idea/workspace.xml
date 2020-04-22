@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="943f0d25-54cd-4dd4-a3bb-c25107f79b46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/syaki.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Operator Unary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,27 +81,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1587539928122">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1587540021064">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587539928122" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1587539928121">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587540021064" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1587540021063">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587539928121" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1587539928121">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587540021063" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1587540021063">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587539928121" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1587539928121">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587540021063" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1587540021064">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587539928121" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587540021064" />
     <state x="1550" y="9" key="SettingsEditor" timestamp="1587537710617">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state x="1550" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587537710617" />
+    <state x="1431" y="0" key="new project wizard" timestamp="1587544473075">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1431" y="0" key="new project wizard/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1587544473075" />
   </component>
 </project>
