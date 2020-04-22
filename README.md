@@ -101,6 +101,7 @@ How to Install Java on Ubuntu by Thishosting.Rocks : https://thishosting.rocks/i
 Difference between Definition and Declaration in Java by tutorialspoint : https://www.tutorialspoint.com/difference-between-definition-and-declaration-in-java <br />
 Java Program to find ASCII value of a Character by BeginnersBook : https://beginnersbook.com/2017/09/java-program-to-find-ascii-value-of-a-character/ <br />
 Formatting with printf() in Java by Baeldung : https://www.baeldung.com/java-printstream-printf <br />
+Java Logical Operators by w3schools : https://www.w3schools.in/java-tutorial/operators/logical/ <br />
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
