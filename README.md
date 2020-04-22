@@ -87,6 +87,7 @@ What is float in Java? by Stack Overflow : https://stackoverflow.com/questions/5
 **_Java questions and answers by Quora_** <br />
 What does the "String[ ] args" in a Java main method actually mean? by Quora : https://www.quora.com/What-does-the-String-args-in-a-Java-main-method-actually-mean <br />
 What is the meaning of void in java? by Quora : https://www.quora.com/What-is-the-meaning-of-void-in-java <br />
+What is the cast operator in java? by Quora : https://www.quora.com/What-is-the-cast-operator-in-java <br />
 
 **_Java related articles_** <br />
 public static void main(String[] args) – Java main method by JournalDev : https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method <br />
