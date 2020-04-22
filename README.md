@@ -50,6 +50,8 @@ Java SE Security by oracle.com : https://www.oracle.com/technetwork/java/javase/
 Differences between Java EE and Java SE by oracle : https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html <br />
 Introduction to JShell by oracle : https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm#JSHEL-GUID-630F27C8-1195-4989-9F6B-2C51D46F52C8 <br />
 Formatting Numeric Print Output by oracle : https://docs.oracle.com/javase/tutorial/java/data/numberformat.html <br />
+Class Long by oracle : https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html <br />
+Class Byte by oracle : https://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html <br />
 
 **_Java documentation by wikibooks.org_** <br />
 private by wikibooks.org : https://en.wikibooks.org/wiki/Java_Programming/Keywords/private <br />
@@ -85,6 +87,7 @@ What is float in Java? by Stack Overflow : https://stackoverflow.com/questions/5
 **_Java questions and answers by Quora_** <br />
 What does the "String[ ] args" in a Java main method actually mean? by Quora : https://www.quora.com/What-does-the-String-args-in-a-Java-main-method-actually-mean <br />
 What is the meaning of void in java? by Quora : https://www.quora.com/What-is-the-meaning-of-void-in-java <br />
+What is the cast operator in java? by Quora : https://www.quora.com/What-is-the-cast-operator-in-java <br />
 
 **_Java related articles_** <br />
 public static void main(String[] args) – Java main method by JournalDev : https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method <br />
