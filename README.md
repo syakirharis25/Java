@@ -51,6 +51,7 @@ Differences between Java EE and Java SE by oracle : https://docs.oracle.com/java
 Introduction to JShell by oracle : https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm#JSHEL-GUID-630F27C8-1195-4989-9F6B-2C51D46F52C8 <br />
 Formatting Numeric Print Output by oracle : https://docs.oracle.com/javase/tutorial/java/data/numberformat.html <br />
 Class Long by oracle : https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html <br />
+Class Byte by oracle : https://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html <br />
 
 **_Java documentation by wikibooks.org_** <br />
 private by wikibooks.org : https://en.wikibooks.org/wiki/Java_Programming/Keywords/private <br />
