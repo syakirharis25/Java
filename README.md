@@ -48,10 +48,11 @@ The while and do-while Statements by oracle.com : https://docs.oracle.com/javase
 javac - Java programming language compiler by oracle.com : https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javac.html <br />
 Java SE Security by oracle.com : https://www.oracle.com/technetwork/java/javase/jaas/index.html <br />
 Differences between Java EE and Java SE by oracle : https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html <br />
-Introduction to JShell by oracle : https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm#JSHEL-GUID-630F27C8-1195-4989-9F6B-2C51D46F52C8 <br />
+Introduction to JShell by oracle.com : https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm#JSHEL-GUID-630F27C8-1195-4989-9F6B-2C51D46F52C8 <br />
 Formatting Numeric Print Output by oracle : https://docs.oracle.com/javase/tutorial/java/data/numberformat.html <br />
-Class Long by oracle : https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html <br />
-Class Byte by oracle : https://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html <br />
+Class Long by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html <br />
+Class Byte by oracle.com : https://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html <br />
+Assignment, Arithmetic, and Unary Operators by oracle.com : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op1.html <br />
 
 **_Java documentation by wikibooks.org_** <br />
 private by wikibooks.org : https://en.wikibooks.org/wiki/Java_Programming/Keywords/private <br />
@@ -64,6 +65,7 @@ Java If ... Else by w3schools.com : https://www.w3schools.com/java/java_conditio
 Java For Loop by w3schools.com : https://www.w3schools.com/java/java_for_loop.asp <br />
 Java While Loop by w3schools.com : https://www.w3schools.com/java/java_while_loop.asp <br />
 Java Data Types by w3schools.com : https://www.w3schools.com/java/java_data_types.asp <br />
+Java Booleans by w3schools.com : https://www.w3schools.com/java/java_booleans.asp <br />
 
 **_Java documentation by Javatpoint_** <br />
 Java static keyword by Javatpoint : https://www.javatpoint.com/static-keyword-in-java <br />
@@ -83,6 +85,7 @@ What is “String args[]”? parameter in main method Java by Stack Overflow : h
 javac : command not found by Stack Overflow : https://stackoverflow.com/questions/5407703/javac-command-not-found <br />
 Declaring an unsigned int in Java by Stack Overflow : https://stackoverflow.com/questions/9854166/declaring-an-unsigned-int-in-java <br />
 What is float in Java? by Stack Overflow : https://stackoverflow.com/questions/5076710/what-is-float-in-java <br />
+Java: Prefix/postfix of increment/decrement operators? by Stack Overflow : https://stackoverflow.com/questions/5413548/java-prefix-postfix-of-increment-decrement-operators <br />
 
 **_Java questions and answers by Quora_** <br />
 What does the "String[ ] args" in a Java main method actually mean? by Quora : https://www.quora.com/What-does-the-String-args-in-a-Java-main-method-actually-mean <br />
