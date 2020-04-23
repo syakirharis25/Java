@@ -26,6 +26,9 @@ JDK 13 documentation : https://docs.oracle.com/en/java/javase/13/index.html <br 
 Java Version 8 Update 251 download page : https://www.java.com/en/download/ <br />
 Oracle official website : https://www.oracle.com <br />
 
+**_JAVA related projects_** <br />
+Kelas Terbuka : https://github.com/kelasterbuka <br />
+
 **_Java text editor_** <br />
 Eclipse Foundation official website : https://www.eclipse.org <br />
 Eclipse IDE for Java Developers : https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers <br />
@@ -53,6 +56,8 @@ Formatting Numeric Print Output by oracle : https://docs.oracle.com/javase/tutor
 Class Long by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html <br />
 Class Byte by oracle.com : https://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html <br />
 Assignment, Arithmetic, and Unary Operators by oracle.com : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op1.html <br />
+Bitwise and Bit Shift Operators by oracle.com : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html <br />
+Class Integer by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/Integer.html <br />
 
 **_Java documentation by wikibooks.org_** <br />
 private by wikibooks.org : https://en.wikibooks.org/wiki/Java_Programming/Keywords/private <br />
@@ -102,6 +107,7 @@ Difference between Definition and Declaration in Java by tutorialspoint : https:
 Java Program to find ASCII value of a Character by BeginnersBook : https://beginnersbook.com/2017/09/java-program-to-find-ascii-value-of-a-character/ <br />
 Formatting with printf() in Java by Baeldung : https://www.baeldung.com/java-printstream-printf <br />
 Java Logical Operators by w3schools : https://www.w3schools.in/java-tutorial/operators/logical/ <br />
+Java – String substring() Method example by BeginnersBook : https://beginnersbook.com/2013/12/java-string-substring-method-example/ <br />
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
