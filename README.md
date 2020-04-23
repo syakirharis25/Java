@@ -104,6 +104,7 @@ Difference between Definition and Declaration in Java by tutorialspoint : https:
 Java Program to find ASCII value of a Character by BeginnersBook : https://beginnersbook.com/2017/09/java-program-to-find-ascii-value-of-a-character/ <br />
 Formatting with printf() in Java by Baeldung : https://www.baeldung.com/java-printstream-printf <br />
 Java Logical Operators by w3schools : https://www.w3schools.in/java-tutorial/operators/logical/ <br />
+Java – String substring() Method example by BeginnersBook : https://beginnersbook.com/2013/12/java-string-substring-method-example/ <br />
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
