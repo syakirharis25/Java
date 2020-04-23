@@ -26,6 +26,9 @@ JDK 13 documentation : https://docs.oracle.com/en/java/javase/13/index.html <br 
 Java Version 8 Update 251 download page : https://www.java.com/en/download/ <br />
 Oracle official website : https://www.oracle.com <br />
 
+**_JAVA related projects_** <br />
+Kelas Terbuka : https://github.com/kelasterbuka <br />
+
 **_Java text editor_** <br />
 Eclipse Foundation official website : https://www.eclipse.org <br />
 Eclipse IDE for Java Developers : https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers <br />
