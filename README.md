@@ -58,6 +58,7 @@ Class Byte by oracle.com : https://docs.oracle.com/javase/8/docs/api/java/lang/B
 Assignment, Arithmetic, and Unary Operators by oracle.com : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op1.html <br />
 Bitwise and Bit Shift Operators by oracle.com : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html <br />
 Class Integer by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/Integer.html <br />
+Class Scanner by oracle.com : https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html <br />
 
 **_Java documentation by wikibooks.org_** <br />
 private by wikibooks.org : https://en.wikibooks.org/wiki/Java_Programming/Keywords/private <br />
