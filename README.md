@@ -53,6 +53,7 @@ Formatting Numeric Print Output by oracle : https://docs.oracle.com/javase/tutor
 Class Long by oracle.com : https://docs.oracle.com/javase/7/docs/api/java/lang/Long.html <br />
 Class Byte by oracle.com : https://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html <br />
 Assignment, Arithmetic, and Unary Operators by oracle.com : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op1.html <br />
+Bitwise and Bit Shift Operators by oracle.com : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html <br />
 
 **_Java documentation by wikibooks.org_** <br />
 private by wikibooks.org : https://en.wikibooks.org/wiki/Java_Programming/Keywords/private <br />
