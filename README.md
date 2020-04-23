@@ -85,6 +85,11 @@ Java Identifiers by GeeksforGeeks : https://www.geeksforgeeks.org/java-identifie
 Classes and Objects in Java by GeeksforGeeks : https://www.geeksforgeeks.org/classes-objects-java <br />
 Java | How to create your own Helper Class? by GeeksforGeeks : https://www.geeksforgeeks.org/java-helperclass/<br />
 Integer.MAX_VALUE and Integer.MIN_VALUE in Java with Examples by GeeksforGeeks : https://www.geeksforgeeks.org/integer-max_value-and-integer-min_value-in-java-with-examples/ <br />
+Scanner nextInt() method in Java with Examples by GeeksforGeeks : https://www.geeksforgeeks.org/scanner-nextint-method-in-java-with-examples/ <br />
+
+*_Java documentation by BeginnersBook_** <br />
+Java – String substring() Method example by BeginnersBook : https://beginnersbook.com/2013/12/java-string-substring-method-example/ <br />
+Java Program to find ASCII value of a Character by BeginnersBook : https://beginnersbook.com/2017/09/java-program-to-find-ascii-value-of-a-character/ <br />
 
 **_Java questions and answers by Stack Overflow_** <br />
 What is “String args[]”? parameter in main method Java by Stack Overflow : https://stackoverflow.com/questions/890966/what-is-string-args-parameter-in-main-method-java#:~:text=In%20Java%20args%20contains%20the,%22%2C%20%22two%22%5D%20. <br />
@@ -107,10 +112,9 @@ Java 8 – How to set JAVA_HOME on Windows10 by chandrashekhar : https://www.onl
 Setting the JAVA_HOME Variable in Windows by Confluence Support : https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html <br />
 How to Install Java on Ubuntu by Thishosting.Rocks : https://thishosting.rocks/install-java-ubuntu/ <br />
 Difference between Definition and Declaration in Java by tutorialspoint : https://www.tutorialspoint.com/difference-between-definition-and-declaration-in-java <br />
-Java Program to find ASCII value of a Character by BeginnersBook : https://beginnersbook.com/2017/09/java-program-to-find-ascii-value-of-a-character/ <br />
 Formatting with printf() in Java by Baeldung : https://www.baeldung.com/java-printstream-printf <br />
 Java Logical Operators by w3schools : https://www.w3schools.in/java-tutorial/operators/logical/ <br />
-Java – String substring() Method example by BeginnersBook : https://beginnersbook.com/2013/12/java-string-substring-method-example/ <br />
+
 
 <a name="javadevelopers"></a>
 ## 3. Java developers.
