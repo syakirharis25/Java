@@ -1,34 +1,3 @@
-<<<<<<< HEAD
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
-=======
 # Java
 My works related to Java programming language.
 
@@ -176,4 +145,3 @@ $ git status
 draft
 ```
 Refer to : https://github.com/syakirharis25/cloc
->>>>>>> d261519f5797d96bffbe1380627d3f9d37ff72ed
