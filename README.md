@@ -120,6 +120,7 @@ Java Logical Operators by w3schools : https://www.w3schools.in/java-tutorial/ope
 ## 3. Java developers.
 James Gosling : https://twitter.com/errcraft <br />
 Patrick Naughton : https://github.com/naughton <br />
+Ken W Alger : https://github.com/kenwalger, https://twitter.com/kenwalger <br />
 
 <a name="javac"></a>
 ## 4. Java compiler : javac
